@@ -5,8 +5,8 @@ Este repositório contém meus exercícios e anotações enquanto aprendo Rust s
 ## 📚 Estrutura do Repositório
 
 - **capitulos/**: Exercícios organizados por capítulo do livro
-- **exercicios-extras/**: Projetos e desafios adicionais
 - **docs/**: Anotações e resumos de estudo
+- **exercicios/**: Projetos e desafios adicionais
 - **referencias/**: Links úteis e cheat sheets
 
 ## 🎯 Progresso
